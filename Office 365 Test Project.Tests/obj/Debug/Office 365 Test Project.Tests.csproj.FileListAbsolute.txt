@@ -1,0 +1,57 @@
+c:\users\n_osada\documents\visual studio 2015\Projects\Office 365 Test Project\Office 365 Test Project.Tests\bin\Debug\ApplicationInsights.config
+c:\users\n_osada\documents\visual studio 2015\Projects\Office 365 Test Project\Office 365 Test Project.Tests\bin\Debug\roslyn\csc.exe
+c:\users\n_osada\documents\visual studio 2015\Projects\Office 365 Test Project\Office 365 Test Project.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\n_osada\documents\visual studio 2015\Projects\Office 365 Test Project\Office 365 Test Project.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\n_osada\documents\visual studio 2015\Projects\Office 365 Test Project\Office 365 Test Project.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\n_osada\documents\visual studio 2015\Projects\Office 365 Test Project\Office 365 Test Project.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\n_osada\documents\visual studio 2015\Projects\Office 365 Test Project\Office 365 Test Project.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+c:\users\n_osada\documents\visual studio 2015\Projects\Office 365 Test Project\Office 365 Test Project.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\n_osada\documents\visual studio 2015\Projects\Office 365 Test Project\Office 365 Test Project.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+c:\users\n_osada\documents\visual studio 2015\Projects\Office 365 Test Project\Office 365 Test Project.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+c:\users\n_osada\documents\visual studio 2015\Projects\Office 365 Test Project\Office 365 Test Project.Tests\bin\Debug\roslyn\vbc.exe
+c:\users\n_osada\documents\visual studio 2015\Projects\Office 365 Test Project\Office 365 Test Project.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+c:\users\n_osada\documents\visual studio 2015\Projects\Office 365 Test Project\Office 365 Test Project.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+c:\users\n_osada\documents\visual studio 2015\Projects\Office 365 Test Project\Office 365 Test Project.Tests\bin\Debug\Office 365 Test Project.Tests.dll.config
+c:\users\n_osada\documents\visual studio 2015\Projects\Office 365 Test Project\Office 365 Test Project.Tests\bin\Debug\Office 365 Test Project.Tests.dll
+c:\users\n_osada\documents\visual studio 2015\Projects\Office 365 Test Project\Office 365 Test Project.Tests\bin\Debug\Office 365 Test Project.Tests.pdb
+c:\users\n_osada\documents\visual studio 2015\Projects\Office 365 Test Project\Office 365 Test Project.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\n_osada\documents\visual studio 2015\Projects\Office 365 Test Project\Office 365 Test Project.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+c:\users\n_osada\documents\visual studio 2015\Projects\Office 365 Test Project\Office 365 Test Project.Tests\bin\Debug\Newtonsoft.Json.dll
+c:\users\n_osada\documents\visual studio 2015\Projects\Office 365 Test Project\Office 365 Test Project.Tests\bin\Debug\Office 365 Test Project.dll
+c:\users\n_osada\documents\visual studio 2015\Projects\Office 365 Test Project\Office 365 Test Project.Tests\bin\Debug\System.Web.Helpers.dll
+c:\users\n_osada\documents\visual studio 2015\Projects\Office 365 Test Project\Office 365 Test Project.Tests\bin\Debug\System.Web.Mvc.dll
+c:\users\n_osada\documents\visual studio 2015\Projects\Office 365 Test Project\Office 365 Test Project.Tests\bin\Debug\System.Web.Razor.dll
+c:\users\n_osada\documents\visual studio 2015\Projects\Office 365 Test Project\Office 365 Test Project.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+c:\users\n_osada\documents\visual studio 2015\Projects\Office 365 Test Project\Office 365 Test Project.Tests\bin\Debug\System.Web.WebPages.dll
+c:\users\n_osada\documents\visual studio 2015\Projects\Office 365 Test Project\Office 365 Test Project.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+c:\users\n_osada\documents\visual studio 2015\Projects\Office 365 Test Project\Office 365 Test Project.Tests\bin\Debug\Microsoft.Owin.dll
+c:\users\n_osada\documents\visual studio 2015\Projects\Office 365 Test Project\Office 365 Test Project.Tests\bin\Debug\System.Web.Optimization.dll
+c:\users\n_osada\documents\visual studio 2015\Projects\Office 365 Test Project\Office 365 Test Project.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+c:\users\n_osada\documents\visual studio 2015\Projects\Office 365 Test Project\Office 365 Test Project.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+c:\users\n_osada\documents\visual studio 2015\Projects\Office 365 Test Project\Office 365 Test Project.Tests\bin\Debug\Microsoft.Owin.Security.dll
+c:\users\n_osada\documents\visual studio 2015\Projects\Office 365 Test Project\Office 365 Test Project.Tests\bin\Debug\Owin.dll
+c:\users\n_osada\documents\visual studio 2015\Projects\Office 365 Test Project\Office 365 Test Project.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+c:\users\n_osada\documents\visual studio 2015\Projects\Office 365 Test Project\Office 365 Test Project.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\n_osada\documents\visual studio 2015\Projects\Office 365 Test Project\Office 365 Test Project.Tests\bin\Debug\EntityFramework.dll
+c:\users\n_osada\documents\visual studio 2015\Projects\Office 365 Test Project\Office 365 Test Project.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\n_osada\documents\visual studio 2015\Projects\Office 365 Test Project\Office 365 Test Project.Tests\bin\Debug\Office 365 Test Project.pdb
+c:\users\n_osada\documents\visual studio 2015\Projects\Office 365 Test Project\Office 365 Test Project.Tests\bin\Debug\Newtonsoft.Json.xml
+c:\users\n_osada\documents\visual studio 2015\Projects\Office 365 Test Project\Office 365 Test Project.Tests\bin\Debug\System.Web.Helpers.xml
+c:\users\n_osada\documents\visual studio 2015\Projects\Office 365 Test Project\Office 365 Test Project.Tests\bin\Debug\System.Web.Mvc.xml
+c:\users\n_osada\documents\visual studio 2015\Projects\Office 365 Test Project\Office 365 Test Project.Tests\bin\Debug\System.Web.Razor.xml
+c:\users\n_osada\documents\visual studio 2015\Projects\Office 365 Test Project\Office 365 Test Project.Tests\bin\Debug\System.Web.WebPages.xml
+c:\users\n_osada\documents\visual studio 2015\Projects\Office 365 Test Project\Office 365 Test Project.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+c:\users\n_osada\documents\visual studio 2015\Projects\Office 365 Test Project\Office 365 Test Project.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+c:\users\n_osada\documents\visual studio 2015\Projects\Office 365 Test Project\Office 365 Test Project.Tests\bin\Debug\Microsoft.Owin.xml
+c:\users\n_osada\documents\visual studio 2015\Projects\Office 365 Test Project\Office 365 Test Project.Tests\bin\Debug\System.Web.Optimization.xml
+c:\users\n_osada\documents\visual studio 2015\Projects\Office 365 Test Project\Office 365 Test Project.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+c:\users\n_osada\documents\visual studio 2015\Projects\Office 365 Test Project\Office 365 Test Project.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+c:\users\n_osada\documents\visual studio 2015\Projects\Office 365 Test Project\Office 365 Test Project.Tests\bin\Debug\Microsoft.Owin.Security.xml
+c:\users\n_osada\documents\visual studio 2015\Projects\Office 365 Test Project\Office 365 Test Project.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+c:\users\n_osada\documents\visual studio 2015\Projects\Office 365 Test Project\Office 365 Test Project.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\n_osada\documents\visual studio 2015\Projects\Office 365 Test Project\Office 365 Test Project.Tests\bin\Debug\EntityFramework.xml
+c:\users\n_osada\documents\visual studio 2015\Projects\Office 365 Test Project\Office 365 Test Project.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\n_osada\documents\visual studio 2015\Projects\Office 365 Test Project\Office 365 Test Project.Tests\bin\Debug\ja\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\users\n_osada\documents\visual studio 2015\Projects\Office 365 Test Project\Office 365 Test Project.Tests\obj\Debug\Office 365 Test Project.Tests.csprojResolveAssemblyReference.cache
+c:\users\n_osada\documents\visual studio 2015\Projects\Office 365 Test Project\Office 365 Test Project.Tests\obj\Debug\Office 365 Test Project.Tests.dll
+c:\users\n_osada\documents\visual studio 2015\Projects\Office 365 Test Project\Office 365 Test Project.Tests\obj\Debug\Office 365 Test Project.Tests.pdb
